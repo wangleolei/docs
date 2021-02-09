@@ -7,3 +7,4 @@
 
 * Help
   * [docsify简介](zh-cn/)
+  * [Markdown 帮助](http://localhost/mdeditor/edit/index.html)
